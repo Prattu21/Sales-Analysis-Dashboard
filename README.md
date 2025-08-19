@@ -1,2 +1,4 @@
-# Sales-Analysis-Dashboard
-This project presents an interactive Sales Analysis Dashboard designed to provide valuable insights into business performance. The dashboard is built using excel pivot tables, charts, slicers and timeline enabling users to explore sales trends and identify key business drivers.
+# Sales-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+The sales store like instamart wants to create an annual sales report for 2022,23,24,25. So that the owner of store can understand their customers and grow more sales in upcoming years.
+
